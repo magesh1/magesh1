@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Magesh😎</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Magesh😎</h1>
 <h3 align="center">A passionate java Developer | BuG hUnt3r | Self Learner</h3>
 
 <p align="left"> <a href="https://twitter.com/mageshcruz" target="blank"><img src="https://img.shields.io/twitter/follow/mageshcruz?logo=twitter&style=for-the-badge" alt="mageshcruz" /></a> </p>
