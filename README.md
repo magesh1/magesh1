@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **mageshcruz@gmail.com**
+- 📫 Reach me at **mageshcruz@gmail.com**
 
 - ⚡ Fun fact **Your future is created by what You🙄 Do{Today😎} ! "Tomorrow😏";**
 
