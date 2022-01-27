@@ -5,9 +5,9 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-- 🔭 I’m currently working on **java programming**
+- 🔭 I’m currently working on **Opensource programming**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 Reach me at **mageshcruz@gmail.com**
 
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mageshcruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mageshcruz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/magesh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="magesh1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/magesh-1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="magesh1" height="30" width="40" /></a>
 </p>
 
