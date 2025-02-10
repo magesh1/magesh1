@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Spring boot**
 
 - 📫 Reach me at **mageshcruz@gmail.com**
 
